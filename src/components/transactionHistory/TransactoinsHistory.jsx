@@ -1,5 +1,5 @@
 import React from "react";
-import transactions from "../transactionHistory/transaction.json";
+import transactions from "./transaction.json";
 import TableRow from "./TableRow";
 import styles from "./TransactionHistory.module.css";
 

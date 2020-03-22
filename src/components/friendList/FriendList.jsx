@@ -1,6 +1,6 @@
 import React from "react";
 import Item from "./Items";
-import friendJson from "../friendList/friends.json";
+import friendJson from "./friends.json";
 import styles from "./FriendList.module.css";
 const FriendList = () => (
   <div className={styles.friendList}>

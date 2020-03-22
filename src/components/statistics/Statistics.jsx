@@ -1,6 +1,6 @@
 import React from "react";
 import StatList from "./StatList";
-import Data from "../statistics/statisticalData.json";
+import Data from "./statisticalData.json";
 import styles from "./Statistic.module.css";
 const Statistics = () => (
   <section className={styles.statistics}>
